@@ -1,0 +1,8 @@
+# variables de entorno
+.env
+
+# Carpeta de dependencias
+node_modules
+
+#Archivos vsCode
+.vscode
